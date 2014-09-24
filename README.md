@@ -41,4 +41,4 @@ Credential are in plain text so it's not secure and the authentication is just f
  
 This program is just for demonstration purposes and should not be used in any production grade system without substantial re-factoring of the source code. I will not be responsible for any loss or damage caused by the program. 
    
-Any question please send me a message.   
+Any questions please send me an email.   
