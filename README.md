@@ -6,9 +6,9 @@ This is an simple application created using only the Cygwin Compiler. This appli
 May contain numerous big or small bugs and may also contain unknown bottlenecks. It was tested only for a few times and are for demonstration purposes.
 
 
-###How the program works
+##How the program works
 
-##Installation 
+###Installation 
 
 Basically after compiling it. Run the program for the first time inside the folder because it will create the files listed : 
 
@@ -18,7 +18,7 @@ Basically after compiling it. Run the program for the first time inside the fold
 
 Exit the program, and run it again to see the basic menu. 
 
-##Usage
+###Usage
 
 Instruction are in the application during runtime.
 (Not too detailed sorry)
