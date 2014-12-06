@@ -12,9 +12,11 @@ May contain numerous big or small bugs and may also contain unknown bottlenecks.
 
 Basically after compiling it. Run the program for the first time inside the folder because it will create the files listed : 
 
-- AccLog.happ
-- HouseDatabase.happ
-- RealEstateDataFile.happ
+<ul>
+ <li>AccLog.happ</li>
+ <li>HouseDatabase.happ</li>
+ <li>RealEstateDataFile.happ</li>
+</ul>
 
 Exit the program, and run it again to see the basic menu. 
 
