@@ -1,9 +1,21 @@
 #House Directory System
 
-This is the source code for my final semester project.
+<h3>Features</h3>
+  <ol>
+   <li>Self setup</li>
+   <li>Save houses in .happ extension</li>
+   <li>Authentication</li>
+   <li>Statistics of overall houses</li>
+   <li>Add and remove houses</li>
+   <li>Search functionality</li>
+   <li>User friendly command line menus</li>
+   <li>Portable</li>
+  </ol>
 
-This is an simple application created using only the Cygwin Compiler. This application can store a directory of house with it's details.   
-May contain numerous big or small bugs and may also contain unknown bottlenecks. It was tested only for a few times and are for demonstration purposes.
+This is the source code for my group's final semester 1 project.
+
+This is an simple application created using only the Cygwin Compiler. This application can store a directory of house with it's details. Design and user flow was created by my group as a tema but the coding part I have to refactor their coding a lot due to time constrait of 2 months.   
+May contain numerous big or small bugs and may also contain unknown bottlenecks. It was tested only for a few times and is only for demonstration purposes.
 
 
 ##How the program works
